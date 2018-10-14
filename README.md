@@ -1,6 +1,12 @@
 ## Laravel Foundation Bus Component
 
-This is an extraction of [https://github.com/laravel/framework/tree/v5.7.5/src/Illuminate/Foundation/Bus/](https://github.com/laravel/framework/tree/v5.7.5/src/Illuminate/Foundation/Bus/)
+This is an extraction of [https://github.com/laravel/framework/tree/v5.7.6/src/Illuminate/Foundation/Bus/](https://github.com/laravel/framework/tree/v5.7.6/src/Illuminate/Foundation/Bus/)
+
+### Installation
+
+```bash
+composer require laravel-foundation/bus
+```
 
 
 ### Issues
